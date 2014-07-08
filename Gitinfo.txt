@@ -1,0 +1,18 @@
+GIT
+
+GitHub is a web-based hosting service for software development projects that use the Git revision control system. 
+
+
+The site was launched in 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett.
+
+Largest code host in the world.
+
+Revision control, also known as version control and source control (and an aspect of software configuration management), is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision". For example, an initial set of files is "revision 1". When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
+
+Version control systems (VCS) most commonly run as stand-alone applications, but revision control is also embedded in various types of software such as word processors and spreadsheets, e.g., Google Docs and Sheets[1] and in various content management systems, e.g., Wikipedia's Page history. Revision control allows for the ability to revert a document to a previous revision, which is critical for allowing editors to track each other's edits, correct mistakes, and defend against vandalism and spamming.
+
+Distributed revision control systems (DRCS) take a peer-to-peer approach, as opposed to the client-server approach of centralized systems. Rather than a single, central repository on which clients synchronize, each peer's working copy of the codebase is a bona-fide repository.[3] Distributed revision control conducts synchronization by exchanging patches (change-sets) from peer to peer.
+
+Revision control manages changes to a set of data over time. These changes can be structured in various ways.
+
+The repository is where files' current and historical data are stored, often on a server. Sometimes also called a depot
